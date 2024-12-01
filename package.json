@@ -1,0 +1,8 @@
+{
+  "name": "advent-of-code-2024",
+  "author": "Mikhail Shornikov",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.1.14"
+  }
+}
